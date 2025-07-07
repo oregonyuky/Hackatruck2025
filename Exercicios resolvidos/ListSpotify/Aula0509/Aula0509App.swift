@@ -1,14 +1,14 @@
 //
-//  SheetViewApp.swift
-//  SheetView
+//  Aula0509App.swift
+//  Aula0509
 //
-//  Created by Turma01-5 on 04/07/25.
+//  Created by Student10 on 05/09/23.
 //
 
 import SwiftUI
 
 @main
-struct SheetViewApp: App {
+struct Aula0509App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
